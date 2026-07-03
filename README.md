@@ -1,4 +1,4 @@
-# AI English Speaking Tutor ⭐⭐⭐⭐⭐
+# AI English Speaking Tutor 
 
 An interactive AI-powered English speaking tutor designed for children to practice pronunciation, improve grammar, and build confidence in speaking English.
 
